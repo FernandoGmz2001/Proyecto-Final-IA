@@ -1,5 +1,5 @@
 # Proyecto-Final-IA
-Este es un repositorio para el proyecto final de la manteria de Inteligencia Artificial
+Este es un repositorio para el proyecto final de la materia de Inteligencia Artificial
 
 Para correr la aplicacion aplica los siguientes pasos:
 
